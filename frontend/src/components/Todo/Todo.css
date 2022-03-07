@@ -1,0 +1,15 @@
+.todo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+    margin: .5em 0;
+}
+
+.todoItem {
+    list-style-type: none;
+}
+
+.checked {
+    text-decoration: line-through;
+}

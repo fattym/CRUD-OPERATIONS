@@ -1,0 +1,46 @@
+.todosContainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.todoBox{
+    margin-top: 5%;
+}
+
+.todos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: purple;
+}
+
+.logo {
+font-size: 5rem;
+margin-right: 2rem;
+}
+
+.formControls{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.todoInput {
+    padding: .5em 1em;
+    border: 1px solid purple;
+    outline: none;
+    
+}
+
+.add {
+    padding: .5em 1em;
+    background-color: purple;
+    color: White;
+    font-weight: bold;
+    border: none;
+    margin-left: 1em;
+    cursor: pointer;
+}
