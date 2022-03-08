@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRUD-OPERATIONS/static/css/main.4acb8ac3.css",
+    "main.js": "/CRUD-OPERATIONS/static/js/main.fc56d384.js",
+    "static/media/brady-frieden-AupdmQ4w_M4-unsplash.jpg": "/CRUD-OPERATIONS/static/media/brady-frieden-AupdmQ4w_M4-unsplash.8fa05d0b1752df815412.jpg",
+    "index.html": "/CRUD-OPERATIONS/index.html",
+    "main.4acb8ac3.css.map": "/CRUD-OPERATIONS/static/css/main.4acb8ac3.css.map",
+    "main.fc56d384.js.map": "/CRUD-OPERATIONS/static/js/main.fc56d384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acb8ac3.css",
+    "static/js/main.fc56d384.js"
+  ]
+}
