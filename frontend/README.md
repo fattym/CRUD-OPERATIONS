@@ -10,7 +10,8 @@
 1. Joseph Nganga ; lead developer
 ## Description
 MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic
-<img src="img/mvc.jpeg"  >
+<iframe width="420" height="345" src="https://www.youtube.com/embed/HuXBuXf52vA?controls=0">
+          </iframe>
 
 * CRUD operation in MVC is the basic operations, where CRUD denotes create, read, update, and delete
 
