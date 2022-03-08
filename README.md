@@ -2,17 +2,18 @@
 
 
  
-(<a href="">View project</a>)
-<img src="./src/assets/pp.png"  >
+(<a href="https://fattym.github.io/CRUD-OPERATIONS/">View project</a>)
+<img src="./frontend/img/sc.png"  >
 
  Date of current version<strong>*: 08/tue/2022*</strong>
 #### By:
 1. Joseph Nganga ; lead developer
 ## Description
 MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic
-<iframe width="420" height="345" src="https://www.youtube.com/embed/HuXBuXf52vA?controls=0">
-          </iframe>
-
+<div>
+ <div>
+          <iframe width="420" height="345" src="https://www.youtube.com/embed/HuXBuXf52vA?controls=0">
+          </iframe></div>
 * CRUD operation in MVC is the basic operations, where CRUD denotes create, read, update, and delete
 
 
