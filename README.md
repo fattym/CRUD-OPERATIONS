@@ -5,7 +5,7 @@
 (<a href="https://fattym.github.io/CRUD-OPERATIONS/">View project</a>)
 <img src="./frontend/img/sc.png"  >
 
- Date of current version<strong>*: 08/tue/2022*</strong>
+ Date of current version<strong>*: Fri/11/2022*</strong>
 #### By:
 1. Joseph Nganga ; lead developer
 ## Description
@@ -71,7 +71,7 @@ call me on
 ### License
 MIT License
 
-Copyright (c) [2020] [Joseph Nganga]
+Copyright (c) [2022] [Joseph Nganga]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
