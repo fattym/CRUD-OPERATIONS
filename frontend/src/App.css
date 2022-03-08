@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+body {
+  background-image: url("../img/brady-frieden-AupdmQ4w_M4-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

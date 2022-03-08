@@ -85,7 +85,7 @@ const Todos = () => {
       <div className="todoBox">
         <div className="todos">
           <ListAltIcon fontSize="large" className="logo" />{" "}
-          <h1>Incredible Todo List</h1>
+          <h1>CRUD OPERATIONS</h1>
         </div>
         <form>
           <div className="formControls">
