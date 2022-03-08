@@ -12,7 +12,7 @@ const Todos = () => {
   const [itemId, setItemId] = useState("");
 
   useEffect(async () => {
-    const url = "https://desolate-depths-36701.herokuapp.com//api";
+    const url = "https://desolate-depths-36701.herokuapp.com/api";
     const response = await fetch(url);
     const data = await response.json();
     console.log(data);
@@ -24,7 +24,7 @@ const Todos = () => {
     if (buttonText === "Add Todo") {
       try {
         const load = { todo: input };
-        const url = "https://desolate-depths-36701.herokuapp.com//api/add";
+        const url = "https://desolate-depths-36701.herokuapp.com/api/add";
         const todoItem = await fetch(url, {
           method: "POST",
           mode: "cors",
@@ -43,7 +43,7 @@ const Todos = () => {
     } else {
       try {
         const load = { todo: input };
-        const url = `https://desolate-depths-36701.herokuapp.com//api/${itemId}`;
+        const url = `https://desolate-depths-36701.herokuapp.com/api/${itemId}`;
         const todoItem = await fetch(url, {
           method: "PUT",
           mode: "cors",

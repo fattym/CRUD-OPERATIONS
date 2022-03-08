@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: purple;
+    color: orange;
 }
 
 .logo {
@@ -37,7 +37,7 @@ margin-right: 2rem;
 
 .add {
     padding: .5em 1em;
-    background-color: purple;
+    background-color: orange;
     color: White;
     font-weight: bold;
     border: none;

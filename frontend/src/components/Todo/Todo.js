@@ -16,7 +16,7 @@ const handleEdit = (item,id)=>{
 
   const handleDelete = async (id) => {
     try {
-      const url = `https://desolate-depths-36701.herokuapp.com//api/${id}`;
+      const url = `https://desolate-depths-36701.herokuapp.com/api/${id}`;
       const deletedTodo = await fetch(url, {
         method: "DELETE",
         headers: {
