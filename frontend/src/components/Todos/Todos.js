@@ -86,7 +86,13 @@ const Todos = () => {
         <div className="todos">
           <ListAltIcon fontSize="large" className="logo" />{" "}
           <h1>CRUD OPERATIONS</h1>
+
+
         </div>
+        <p>MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic</p>
+        <div className="if">
+          <iframe width="420" height="345" src="https://www.youtube.com/embed/HuXBuXf52vA?controls=0">
+          </iframe></div>
         <form>
           <div className="formControls">
             <input

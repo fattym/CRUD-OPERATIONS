@@ -9,12 +9,20 @@
 .todoBox{
     margin-top: 5%;
 }
+p{
+    color: blanchedalmond;
+}
 
 .todos {
     display: flex;
     justify-content: center;
     align-items: center;
     color: orange;
+}
+.if{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {

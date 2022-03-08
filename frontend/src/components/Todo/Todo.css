@@ -8,6 +8,10 @@
 
 .todoItem {
     list-style-type: none;
+    background-color: peachpuff;
+    color: black;
+    border: indigo;
+    border-style: groove;
 }
 
 .checked {
